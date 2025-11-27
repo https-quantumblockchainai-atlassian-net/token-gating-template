@@ -12,7 +12,7 @@
   "dependencies": {
     "@coingecko/cryptoformat": "^0.5.4",
     "@next/font": "13.1.6",
-    "@oceanprotocol/lib": "3.0.0-next.5",
+    "@oceanprotocol/lib": "5.0.0",
     "@svgr/webpack": "^8.0.1",
     "@tippyjs/react": "^4.2.6",
     "@types/axios": "^0.14.4",
